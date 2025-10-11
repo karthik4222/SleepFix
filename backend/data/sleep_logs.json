@@ -1,0 +1,31 @@
+{
+  "1": [
+    {
+      "date": "2025-10-11",
+      "duration": 8.0,
+      "bedtime": "22:00",
+      "wake_time": "06:00",
+      "caffeine_intake": 40.0,
+      "stress_level": 6,
+      "screen_time": 4.0
+    },
+    {
+      "date": "2025-10-11",
+      "duration": 5.0,
+      "bedtime": "01:00",
+      "wake_time": "06:00",
+      "caffeine_intake": 50.0,
+      "stress_level": 8,
+      "screen_time": 6.0
+    },
+    {
+      "date": "2025-10-11",
+      "duration": 10.0,
+      "bedtime": "22:00",
+      "wake_time": "08:00",
+      "caffeine_intake": 20.0,
+      "stress_level": 4,
+      "screen_time": 1.0
+    }
+  ]
+}

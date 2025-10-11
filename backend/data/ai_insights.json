@@ -1,0 +1,26 @@
+{
+  "1": {
+    "user_id": "1",
+    "generated_at": "2025-10-11T18:22:55.006080",
+    "metrics": {
+      "average_sleep_duration": 7.67,
+      "bedtime_consistency_minutes": 727.46,
+      "average_stress_level": 6,
+      "total_logs": 3
+    },
+    "ai_analysis": {
+      "identified_factors": [
+        {
+          "factor": "Bedtime Inconsistency",
+          "confidence": "High"
+        },
+        {
+          "factor": "Stress Level",
+          "confidence": "Medium"
+        }
+      ],
+      "coaching_tip": "I understand how challenging it can be to stick to a consistent sleep schedule, especially with the stress you're managing. Your body's internal clock is currently very disrupted, which makes falling asleep and waking up feeling refreshed incredibly difficult. The single most impactful change you can make is to set a fixed bedtime and wake-up time, and try your absolute best to stick to it every single day, even on weekends. This consistency will powerfully anchor your body clock, helping you fall asleep more easily and reducing your stress by creating a reliable routine.",
+      "sleep_improvement_score": 8
+    }
+  }
+}
